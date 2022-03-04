@@ -1,0 +1,38 @@
+.songs-list-item{
+    display: flex;
+    height: 50px;
+}
+
+.songs-list-item:hover {
+    background-color:#FAEBD7;
+    border-radius: 10px;
+    width: 70%;
+    text-decoration: none;
+  }
+
+.artist-name{
+    color:#1A1C1E;
+    padding-top:13px;
+    text-decoration:none;
+    font-size: 1.2rem;
+    padding-left: 0;
+    margin-left: 10px;
+}
+
+.title-song{
+    color:#1A1C1E;
+    margin-left: 20px;
+    padding-top:10px;
+    text-decoration:none;
+    font-size: 1.4rem;
+}
+
+.artist-name:hover {
+    color:#727B88;
+    text-decoration:underline;
+}
+
+.title-song:hover {
+    color:#727B88;
+    text-decoration:underline;
+}

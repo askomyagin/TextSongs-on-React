@@ -1,0 +1,10 @@
+.artists-list {
+    padding: 0;
+    margin-right: 25px;    
+}
+.artists-list .artist-title{
+    font-size: 1.3rem;
+    font-weight: 600;
+    display: block;
+    text-align: center;
+}

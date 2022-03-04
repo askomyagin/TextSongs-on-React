@@ -1,0 +1,74 @@
+.features-header{
+    font-size: 1.3rem;
+    font-weight: 600;
+    display: block;
+    text-align: center;
+}
+.conteiner{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.foto-star{
+    margin-left:20px;
+}
+
+.description-star{
+    margin-left:40px;
+    margin-right:40px;
+    font-size: 1rem;
+}
+
+.album-list{
+    display: block;
+    margin-top: 20px;
+}
+
+.album-title{
+    display: block;
+    color:#1A1C1E;
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+.album-info{
+    display: flex;
+}
+
+.foto-album{
+    margin-left: 30px;
+    width: 175px;
+    float: left;
+    margin-bottom: 10px;
+}
+
+.songs{
+    display: block;
+    margin-left: 100px;
+    width: 700px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    color:#1A1C1E;
+}
+
+.song{
+    float: left;
+    margin-right: 30px;
+    margin-top: 10px;
+    font-size: 1rem;
+    font-weight: 450;
+    color:#1A1C1E;
+    text-decoration:none;
+}
+
+.song:hover {
+    color:#727B88;
+    text-decoration:underline;
+}
+
+
+.album-list:hover {
+  background-color:#FAEBD7;
+  outline: none;
+  border-radius: 10px;
+}

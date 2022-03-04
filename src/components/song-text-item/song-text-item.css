@@ -1,0 +1,42 @@
+.page-song-text{
+    display: block;
+}
+
+.title-song-text{
+    color:#1A1C1E;
+    padding-top:10px;
+    text-decoration:none;
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+.name-artist {
+    color:#1A1C1E;
+    text-decoration:none;
+    font-size: 1.2rem;
+    padding-left: 0;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.name-true-artist{
+    text-decoration: none;
+}
+
+.name-true-artist:hover {
+    color:#727B88;
+    text-decoration:underline;
+}
+
+.song-album{
+    color:#1A1C1E;
+    text-decoration:none;
+    font-size: 1.2rem;
+    padding-left: 0;
+}
+
+.text-song{
+    float: left;
+    white-space: pre;
+    margin-bottom: 20px;
+}

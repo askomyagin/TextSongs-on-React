@@ -1,0 +1,15 @@
+.songs-list{
+    width: 100%;
+    height: 50px;
+}
+.songs-list-container{
+    padding: 0;
+    margin-right: 25px;    
+}
+
+.songs-list-container .page-title{
+    font-size: 1.3rem;
+    font-weight: 600;
+    display: block;
+    text-align: center;
+}
